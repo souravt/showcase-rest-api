@@ -1,4 +1,4 @@
-## Building showcase REST API
+## Showcase REST API
 
 - [x]  Building a simple Ping/Pong
 - [ ] Connect with DB
@@ -11,6 +11,8 @@
 - [ ] Containerize
 - [ ] Add code quality checkers
 - [x] Add unit test cases
+- [] CD/CD Integration
+- [] APM Tool Integration
 
 ## How to Test?
 
