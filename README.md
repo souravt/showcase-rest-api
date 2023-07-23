@@ -8,7 +8,7 @@
 - [ ] Logging
 - [ ] Error Handling
 - [ ] Connect with observability agents
-- [ ] Containerize
+- [x] Containerize
 - [ ] Add code quality checkers
 - [x] Add unit test cases
 - [] CD/CD Integration
