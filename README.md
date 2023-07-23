@@ -10,7 +10,7 @@
 - [ ] Connect with observability agents
 - [ ] Containerize
 - [ ] Add code quality checkers
-- [ ] Add unit test cases
+- [x] Add unit test cases
 
 ## How to Test?
 
