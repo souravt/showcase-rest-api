@@ -12,3 +12,18 @@
 10. Add code quality checkers
 11. Add unit test cases
 
+## How to Test?
+
+### Sending a GET message
+
+```
+curl http://localhost:8081/ping
+```
+
+### Sending a POST message
+
+```
+curl --location 'http://localhost:8081/messages' \
+--header 'Content-Type: application/json' \
+--data '{"message":"Welcome"}'
+```
